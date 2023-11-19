@@ -1,0 +1,13 @@
+/**--COLORES--**/
+negro:#2C3639;
+gris:#3F4E4F;
+marron:#A27B5C;
+blancoCalido:#DCD7C9;
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+/**--FUENTES--**/
+font-family: 'Edu SA Beginner', cursive;
+font-family: 'Roboto', sans-serif;
